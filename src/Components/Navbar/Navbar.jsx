@@ -67,12 +67,12 @@ const Navbar = () => {
 					style={{ color: `${newTheme.title}` }}
 					className={styles.links}
 				>
-					<a href='#home'>Home</a>
-					<a href='#about'>About</a>
 					
+					<a href='#about'>About</a>
+					<a href='#techStacks'>Skills</a>
 					<a href='#projects'>Projects</a>
 					{/* <a
-            href="https://medium.com/@shakeer043/e-commerce-product-selling-website-clone-eb4a3451d06b"
+            href="https://medium.com/@tabrez/e-commerce-product-selling-website-clone-eb4a3451d06b"
             rel="noreferrer"
             target="_blank"
           >
